@@ -2,6 +2,6 @@
 TG1 del Grupo T4
 
 Miembros del grupo:
-  - Jonatan Viñuelas Caballero (Coordinador).
-  - Ana Olmeda Fernández.
-  - Miguel Domingo Calvo.
+  - Jonatan Viñuelas Caballero (Coordinador): JonatanVinuelasCaballero.
+  - Ana Olmeda Fernández: anolfer.
+  - Miguel Domingo Calvo: MiguelDomingo.
